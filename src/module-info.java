@@ -7,6 +7,8 @@ module workshop_javafx {
 	
     opens model.entities to javafx.graphics, javafx.fxml, javafx.base;
     opens model.services to javafx.graphics, javafx.fxml;
-	
+    
+    requires java.sql;
+    
 	opens application to javafx.graphics, javafx.fxml;
 }
