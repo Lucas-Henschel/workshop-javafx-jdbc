@@ -29,8 +29,6 @@ Este é um projeto de estudo onde foi desenvolvido uma interface gráfica onde v
 - [x] Se você clicar no botão edit de um determinado vendedor, vai abrir um formulario com as informações já carregadas para você editar.
 - [x] Se você clicar no botão remove você deleta o vendedor do sistema.
 
-#
-
 - <h3> Department </h3>
  
 - [x] Se você ir em Registration > Department, você se depara com uma lista de departamentos cadastrados no banco.
@@ -44,11 +42,29 @@ Este é um projeto de estudo onde foi desenvolvido uma interface gráfica onde v
 
 - <h3> Seller </h3>
 
+Página principal referente ao vendedor, onde tem uma listagem de todos os vendedores cadastrados no sistema.
+
 <img src="https://github.com/Lucas-Henschel/workshop-javafx-jdbc/blob/main/src/assets/seller-page.PNG" alt="Seller page">
+
+##
+
+Modal com um formulário para criar um vendedor, com todas as vaidações dos campos implementadas.
+
+<img src="https://github.com/Lucas-Henschel/workshop-javafx-jdbc/blob/main/src/assets/seller-form.PNG" alt="Seller form">
+
+---
 
 - <h3> Department </h3>
 
+Página principal referente ao departamento, onde tem uma listagem de todos os departamentos cadastrados no sistema.
+
 <img src="https://github.com/Lucas-Henschel/workshop-javafx-jdbc/blob/main/src/assets/department-page.PNG" alt="Department page">
+
+##
+
+Modal com um formulário para criar um departamento, com todas as vaidações dos campos implementadas.
+
+<img src="https://github.com/Lucas-Henschel/workshop-javafx-jdbc/blob/main/src/assets/department-form.PNG" alt="Department form">
 
 ---
 
