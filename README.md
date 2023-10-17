@@ -52,6 +52,12 @@ Modal com um formulário para criar um vendedor, com todas as vaidações dos ca
 
 <img src="https://github.com/Lucas-Henschel/workshop-javafx-jdbc/blob/main/src/assets/seller-form.PNG" alt="Seller form">
 
+##
+
+Modal de confirmação para remover um vendedor.
+
+<img src="https://github.com/Lucas-Henschel/workshop-javafx-jdbc/blob/main/src/assets/remove.PNG" alt="Seller remove">
+
 ---
 
 - <h3> Department </h3>
